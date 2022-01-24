@@ -22,6 +22,6 @@ The rare Ships are charecterized by:
 
 ### Peek-a-booo
 Some sample NFTs that will be available:
-![PirateShipNo4](4.png)
-![PirateShipNo5](5.png)
+- ![PirateShipNo4](4.png)
+- ![PirateShipNo5](5.png)
 
