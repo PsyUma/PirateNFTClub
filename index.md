@@ -1,8 +1,8 @@
 ## The Pirate NFT Club
-Pirate Ship Club is a project by two people, Uma and Sowmya. We think of this club as a place to learn how to create and mint ERC1721 NFTs. Learn how to stake your NFTs and how to bring your NFTs to the metaverse.
+Pirate NFT Club is a project by two people, Uma and Sowmya. We think of this club as a place to learn how to create and mint ERC1721 NFTs. Learn how to stake your NFTs and how to bring your NFTs to the metaverse.
 
 ### Our Pirate NFTs
-We are launching our NFTs on Opensea: [PirateShipClub](https://opensea.io/PirateNFTClub)
+We are launching our NFTs on Opensea: [PirateNFTClub](https://opensea.io/PirateNFTClub)
 
 We are launching a collection of 11,111 pirate ship NFTs. Each ship has the following features:
 - Ship Hull
