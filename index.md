@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## The Pirate NFT Club
+Pirate Ship Club is a project by two people, Uma and Sowmya. We think of this club as a place to learn how to create and mint ERC1721 NFTs. Learn how to stake your NFTs and how to bring your NFTs to the metaverse.
 
-You can use the [editor on GitHub](https://github.com/PsyUma/PirateShipClub/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Our Pirate NFTs
+We are launching our NFTs on Opensea: [PirateShipClub](https://opensea.io/PirateShipClub)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are launching a collection of 11,111 pirate ship NFTs. Each ship has the following features:
+- Ship Hull
+- Ship Captain
+- Ship Anchor
+- Ship Cannons
+- Ship Head Sail
+- Ship Main Sail
+- Ship Treasures
+- Ship Rum Barrels
+- Pirate Island
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PsyUma/PirateShipClub/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The rare Ships are charecterized by:
+- Three big cannons
+- Blue faced captain
+- Captain Cabin with a Cannon
