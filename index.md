@@ -4,7 +4,24 @@ Pirate NFT Club is a project by two people, Uma and Sowmya. We think of this clu
 ### Our Pirate NFTs
 We are launching our NFTs on Opensea: [PirateNFTClub](https://opensea.io/PirateNFTClub)
 
-We are launching a collection of 11,111 pirate ship NFTs. Each ship has the following features:
+#### PirateCaptains
+We will be launching a collection of 10,000 pirate captains.
+
+![PirateCaptain](abc.png)
+
+Each captain comes with:
+- Hat
+- Feather
+- Vest
+- Pant
+- Sword
+- Ribbons
+- Face
+
+
+
+#### PirateShips
+We will be launching a collection of 11,111 pirate ship NFTs. Each ship has the following features:
 - Ship Hull
 - Ship Captain
 - Ship Anchor
