@@ -3,7 +3,7 @@ Pirate NFT Club is a project by two people, Uma and Sowmya. We think of this clu
 
 ## Why should you buy our NFTs
 - Our NFTs are not just collectibles, they can be used in the P2E game we will be launching
-- We have a skilled group leading our projects
+- We will be launching tools and utilities for NFT minting, owners of our NFTs will have unlimited access to resources.
 
 ### Our Pirate NFTs
 We are launching our NFTs on Opensea: [PirateNFTClub](https://opensea.io/PirateNFTClub)
