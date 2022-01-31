@@ -1,22 +1,27 @@
 ## The Pirate NFT Club
-Pirate NFT Club is a project by two people, Uma and Sowmya. We think of this club as a place to learn how to create and mint ERC1721 NFTs. Learn how to stake your NFTs and how to bring your NFTs to the metaverse.
+Pirate NFT Club is a project by two people, Uma and Sowmya. We think of this club as a place to learn how to create and mint ERC1721 NFTs. Learn how to stake your NFTs and how to bring your NFTs to the metaverse. We will soon be launching a collection of tools to simplify the process of NFT creation and minting. Finally, we will launch a P2E game where you can use the PirateNFTClub NFTs to play.
+
+## Why should you buy our NFTs
+- Our NFTs are not just collectibles, they can be used in the P2E game we will be launching
+- We have a skilled group leading our projects
 
 ### Our Pirate NFTs
 We are launching our NFTs on Opensea: [PirateNFTClub](https://opensea.io/PirateNFTClub)
 
 #### PirateCaptains
-We will be launching a collection of 10,000 pirate captains.
+We will be launching a collection of 10,000 pirate captains on Feb 28th, 2022
 
 ![PirateCaptain](abc.png)
 
-Each captain comes with:
+Each captain NFT is created using the following layers:
 - Hat
-- Feather
+- Feather for the Hat
 - Vest
 - Pant
 - Sword
 - Ribbons
 - Face
+- Leg
 
 
 
