@@ -1,6 +1,8 @@
 ## The Pirate NFT Club
 Pirate NFT Club is a project by two people, Uma and Sowmya. We think of this club as a place to learn how to create and mint ERC721 NFTs. Learn how to stake your NFTs and how to bring your NFTs to the metaverse. We will soon be launching a collection of tools to simplify the process of NFT creation and minting. Finally, we will launch a P2E game where you can use the PirateNFTClub NFTs to play, earn and trade NFTs.
 
+-![PirateCaptainBanner](preview.png)
+
 We will be posting regular project updates on this site soon.
 
 ## Why should you buy our NFTs
