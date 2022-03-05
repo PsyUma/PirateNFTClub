@@ -6,8 +6,8 @@ Pirate NFT Club is a project by two people, Uma and Sowmya. We think of this clu
 We will be posting regular project updates on this site soon.
 
 ## Coming soon:
--DAPP for our NFTS
--Metaverse Game: Need pirateNFTClub NFTs to play
+- DAPP for our NFTS: an app for minting PirateNFTClub NFTs.
+- Metaverse Game: Need pirateNFTClub NFTs to play. Game architecture will be released soon.
 
 ## Why should you buy our NFTs
 - Our NFTs are not just collectibles, they can be used in the P2E game we will be launching
