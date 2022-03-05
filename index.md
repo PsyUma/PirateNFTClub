@@ -17,19 +17,18 @@ We will be posting regular project updates on this site soon.
 We are launching our NFTs on Opensea: [PirateNFTClub](https://opensea.io/PirateNFTClub)
 
 #### PirateCaptains
-We will be launching a collection of 15,555 pirate captains on Feb 28th, 2022
+We will be launching a collection of 15,555 pirate captains on Feb 28th, 2022. Date of auction will be revelaed soon.
 
-![PirateCaptain](abc.png) ![PirateCaptain](abc.png)
+Each captain NFT is created using one of the unique features:
+- A pirate Hat
+- A pirate Vest
+- Pirate pants
+- Weapon: grenade, bomb, sword, spikes, etc
+- Face: Grey face with a pipe, red face with mustache
+- Hairstyle: mohawk, bald, etc
+- Unique card background: Green , blue, red, etc
 
-Each captain NFT is created using the following layers:
-- Hat
-- Feather for the Hat
-- Vest
-- Pant
-- Weapon
-- Ribbons
-- Face
-- Leg
+-![PirateCaptain](abc1.png)
 
 
 
