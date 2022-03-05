@@ -5,6 +5,10 @@ Pirate NFT Club is a project by two people, Uma and Sowmya. We think of this clu
 
 We will be posting regular project updates on this site soon.
 
+## Coming soon:
+-DAPP for our NFTS
+-Metaverse Game: Need pirateNFTClub NFTs to play
+
 ## Why should you buy our NFTs
 - Our NFTs are not just collectibles, they can be used in the P2E game we will be launching
 - We will be launching tools and utilities for NFT minting, owners of our NFTs will have unlimited access to resources and other exclusive benefits.
@@ -15,7 +19,7 @@ We are launching our NFTs on Opensea: [PirateNFTClub](https://opensea.io/PirateN
 #### PirateCaptains
 We will be launching a collection of 15,555 pirate captains on Feb 28th, 2022
 
-![PirateCaptain](abc.png)
+![PirateCaptain](abc.png) ![PirateCaptain](abc.png)
 
 Each captain NFT is created using the following layers:
 - Hat
